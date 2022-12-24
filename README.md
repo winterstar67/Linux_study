@@ -1,3 +1,3 @@
 # Linux_study
 
-아직 해당 파일은 계속 수정중
+아직 2022-12-14 Linux_study.ipynb은 계속 수정중
